@@ -1,7 +1,12 @@
+import Layout from "./layout/layout";
+
 function App() {
   return (
    <>
-     <h1>Helloooo......</h1>
+       <Layout>
+           <h1>Helloooo......</h1>
+       </Layout>
+
    </>
   );
 }

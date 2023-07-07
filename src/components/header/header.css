@@ -1,0 +1,25 @@
+.header {
+    background-color: var(--secondary-color);
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+}
+
+.logo-box {
+
+}
+
+.header-logo {
+    font-size: 2rem;
+    color: white;
+}
+
+.main-nav {
+
+}
+
+.main-nav ul {
+
+}
