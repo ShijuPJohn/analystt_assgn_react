@@ -3,14 +3,14 @@
   --primary-color-trans: rgba(162, 102, 146, 0.76);
   --primary-color-light: #b08ab7;
   --primary-color-dark: #520d59;
-  --secondary-color: #2f7db2;
+  --secondary-color: #3f243c;
   --secondary-color-light: #FFF;
   --secondary-color-dark: #FFF;
   --border-grey: #c0c0c0;
   --text-black-dark: #393939;
   --text-black-light1: #585858;
   --text-black-light2: #7b7b7b;
-  --body-bg-start: #8d3176;
+  --body-bg-start: #bc2a6e;
   --body-bg-end: #b6a2b8;
   --main-bg-color: #EEEEEE;
 }
